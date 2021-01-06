@@ -12,4 +12,4 @@ Unity prototype
 
 Screenshot
 <img src='Screenshot.PNG' align="right" width=960>
-<img src='gif.GIF' align="right" width=960>
+<img src='gif.gif' align="right" width=960>
