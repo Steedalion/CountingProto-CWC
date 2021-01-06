@@ -1,17 +1,15 @@
-# Unity Prototype Template
-## How to use:
-1. Go to project folder
+# Boxed catcher
+## 
+Drag around the boxes to catch the correct color ball.
+You can only drag one box at a time.
 
-2. Clone
+Balls are spawned from the top of the screen.
 
-3. Rename Folder (UnityPrototype -> Tankz)
-
-4. in the folder, remove git (rm -fr ./Tankz/.git)
-
-5. Start a new git repo (git init)
+If a ball of the same color falls in the box a player is rewarded.
 
 
 Unity prototype
 
 Screenshot
 <img src='Screenshot.PNG' align="right" width=960>
+<img src='gif.GIF' align="right" width=960>
